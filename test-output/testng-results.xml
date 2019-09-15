@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="49609" started-at="2019-06-18T08:10:58Z" finished-at="2019-06-18T08:11:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="49609" started-at="2019-06-18T08:10:58Z" finished-at="2019-06-18T08:11:48Z">
+      <class name="com.adminLTE.qa.Testcases.LoginPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.adminLTE.qa.Testcases.LoginPageTest@950e31]" name="setup" is-config="true" duration-ms="34226" started-at="2019-06-18T08:10:58Z" finished-at="2019-06-18T08:11:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginpageTitleTest()[pri:1, instance:com.adminLTE.qa.Testcases.LoginPageTest@950e31]" name="loginpageTitleTest" duration-ms="34" started-at="2019-06-18T08:11:32Z" finished-at="2019-06-18T08:11:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.adminLTE.qa.Testcases.LoginPageTest@950e31]" name="tearDown" is-config="true" duration-ms="1025" started-at="2019-06-18T08:11:32Z" finished-at="2019-06-18T08:11:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.adminLTE.qa.Testcases.LoginPageTest@950e31]" name="setup" is-config="true" duration-ms="9758" started-at="2019-06-18T08:11:33Z" finished-at="2019-06-18T08:11:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:2, instance:com.adminLTE.qa.Testcases.LoginPageTest@950e31]" name="loginTest" duration-ms="3449" started-at="2019-06-18T08:11:43Z" finished-at="2019-06-18T08:11:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.adminLTE.qa.Testcases.LoginPageTest@950e31]" name="tearDown" is-config="true" duration-ms="922" started-at="2019-06-18T08:11:47Z" finished-at="2019-06-18T08:11:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.adminLTE.qa.Testcases.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

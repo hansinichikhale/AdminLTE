@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="63617" started-at="2019-09-15T12:12:25Z" finished-at="2019-09-15T12:13:28Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="63617" started-at="2019-09-15T12:12:25Z" finished-at="2019-09-15T12:13:28Z">
+      <class name="com.adminLTE.qa.Testcases.HomePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.adminLTE.qa.Testcases.HomePageTest@24a67]" name="setup" is-config="true" duration-ms="13003" started-at="2019-09-15T12:12:52Z" finished-at="2019-09-15T12:13:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyHomePageTitleTest()[pri:1, instance:com.adminLTE.qa.Testcases.HomePageTest@24a67]" name="verifyHomePageTitleTest" duration-ms="55" started-at="2019-09-15T12:13:05Z" finished-at="2019-09-15T12:13:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitleTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.adminLTE.qa.Testcases.HomePageTest@24a67]" name="teardown" is-config="true" duration-ms="985" started-at="2019-09-15T12:13:06Z" finished-at="2019-09-15T12:13:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.adminLTE.qa.Testcases.HomePageTest -->
+      <class name="com.adminLTE.qa.Testcases.AddUsersPageTest">
+        <test-method status="PASS" signature="setup()[pri:1, instance:com.adminLTE.qa.Testcases.AddUsersPageTest@a12c19]" name="setup" duration-ms="27623" started-at="2019-09-15T12:12:25Z" finished-at="2019-09-15T12:12:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+      </class> <!-- com.adminLTE.qa.Testcases.AddUsersPageTest -->
+      <class name="com.adminLTE.qa.Testcases.UserPageTest">
+        <test-method status="PASS" signature="setup()[pri:1, instance:com.adminLTE.qa.Testcases.UserPageTest@174d20a]" name="setup" duration-ms="11407" started-at="2019-09-15T12:13:17Z" finished-at="2019-09-15T12:13:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+      </class> <!-- com.adminLTE.qa.Testcases.UserPageTest -->
+      <class name="com.adminLTE.qa.Testcases.LoginPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.adminLTE.qa.Testcases.LoginPageTest@121b0a2]" name="setup" is-config="true" duration-ms="9547" started-at="2019-09-15T12:13:07Z" finished-at="2019-09-15T12:13:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginpageTitleTest()[pri:1, instance:com.adminLTE.qa.Testcases.LoginPageTest@121b0a2]" name="loginpageTitleTest" duration-ms="40" started-at="2019-09-15T12:13:16Z" finished-at="2019-09-15T12:13:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.adminLTE.qa.Testcases.LoginPageTest@121b0a2]" name="tearDown" is-config="true" duration-ms="869" started-at="2019-09-15T12:13:16Z" finished-at="2019-09-15T12:13:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.adminLTE.qa.Testcases.LoginPageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

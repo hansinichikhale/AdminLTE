@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Admin LTE Test Automation Test Suite">
+<listeners>
+<listener class-name="com.qa.ExtentrePortListener.ExtentReportListener"/>
+</listeners>
+<test name="Admin LTE App Test Cases">
+<classes>
+<class name="com.adminLTE.qa.Testcases.LoginPageTest"/>
+<class name="com.adminLTE.qa.Testcases.HomePageTest"/>
+</classes>
+</test>
+</suite>

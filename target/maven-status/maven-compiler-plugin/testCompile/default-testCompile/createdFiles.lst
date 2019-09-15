@@ -1,0 +1,4 @@
+com\adminLTE\qa\Testcases\UserPageTest.class
+com\adminLTE\qa\Testcases\AddUsersPageTest.class
+com\adminLTE\qa\Testcases\HomePageTest.class
+com\adminLTE\qa\Testcases\LoginPageTest.class
